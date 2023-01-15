@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": "The native staking and governance token of the Evmos chain",
+      "denom_units": [
+        {
+          "denom": "wfl",
+          "exponent": 0
+        },
+        {
+          "denom": "evmos",
+          "exponent": 18
+        }
+      ],
+      "base": "wfl",
+      "display": "wfl",
+      "name": "wfl",
+      "symbol": "EVMOS"
+    }
+  ]
+}
